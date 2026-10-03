@@ -20,12 +20,15 @@ Sections
 
 
 tharushni-portfolio/
+
 ├── index.html          Page markup and section mount points
 
 ├── css/
+
 │   └── style.css       Design tokens, layout, components, animations
 
 ├── js/
+
 │   ├── data.js         All site content (edit this to update text)
 
 │   ├── icons.js        Inline SVG icon set
@@ -34,6 +37,7 @@ tharushni-portfolio/
 
 
 ├── assets/
+
 │   └── resume.pdf      Resume used by the "Download Resume" button
 
 └── README.md
