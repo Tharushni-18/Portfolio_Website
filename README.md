@@ -16,33 +16,7 @@ Sections
 - Contact – email, phone, and social profiles
 
 
- Project Structure
 
-
-tharushni-portfolio/
-
-├── index.html          Page markup and section mount points
-
-├── css/
-
-│   └── style.css       Design tokens, layout, components, animations
-
-├── js/
-
-│   ├── data.js         All site content (edit this to update text)
-
-│   ├── icons.js        Inline SVG icon set
-
-│   └── main.js         Renders data-driven sections, nav, scroll behavior
-
-
-├── assets/
-
-│   └── resume.pdf      Resume used by the "Download Resume" button
-
-└── README.md
-
-
-arushni-18](https://github.com/Tharushni-18)
-- **LinkedIn:** [Tharushni S.V.](https://www.linkedin.com/in/tharushni-s-v-8258ab32a/)
-- **HackerRank:** [tharushnivijaya2](https://www.hackerrank.com/profile/tharushnivijaya2)
+- Github:(https://github.com/Tharushni-18)
+- LinkedIn: (https://www.linkedin.com/in/tharushni-s-v-8258ab32a/)
+- HackerRank:(https://www.hackerrank.com/profile/tharushnivijaya2)
